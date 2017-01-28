@@ -1,0 +1,106 @@
+Code,Country,Government,Iso Country,Region,Year,Area,Coastline,No of Airports,GDP,Index,Life Exp,Number of Records,Population
+US,United States,presidential federal republic,US,North America,2015,9826675,19924,176,53354,12026,79.1,1,321773631
+CN,China,people's republic,CN,Asia,2015,9596960,14500,32,13334,2573,76.9,1,1376048943
+GB,United Kingdom,constitutional monarchy,GB,Europe,2015,243610,12429,28,38225,11923,81.4,1,64715810
+RU,Russia,presidential federal republic,RU,Europe,2015,17098242,37653,20,23038,9231,73.13,1,143456918
+IT,Italy,republic,IT,Europe,2015,301340,7600,17,33297,5650,82.1,1,59797685
+DE,Germany,parliamentary federal republic,DE,Europe,2015,357022,2389,17,44053,4334,81.1,1,80688545
+CA,Canada,parliamentary monarchy,CA,North America,2015,9984670,202080,12,43294,2171,81.7,1,35939927
+TR,Turkey,republic,TR,Asia,2015,783562,7200,12,19360,11600,76.5,1,78665830
+IN,India,parliamentary federal republic,IN,Asia,2015,3287263,7000,12,5903,5190,66.8,1,1311050527
+JP,Japan,constitutional monarchy,JP,Asia,2015,377915,29751,12,36162,5790,83.5,1,126573481
+BR,Brazil,presidential federal republic,BR,South America,2015,8514877,7491,10,15441,1703,75.6,1,207847528
+MX,Mexico,presidential federal republic,MX,Central America,2015,1964375,9330,10,16850,7325,74.5,1,127017224
+ES,Spain,constitutional monarchy,ES,Europe,2015,505370,4964,9,32979,10400,81.7,1,46121699
+FR,France,republic,FR,Europe,2015,643801,3427,8,37599,4028,81.9,1,64395345
+KR,South Korea,republic,KR,Asia,2015,99720,2413,8,34644,10219,80.7,1,50293439
+PL,Poland,republic,PL,Europe,2015,312685,440,7,24787,8878,77.3,1,38611794
+ID,Indonesia,republic,ID,Asia,2015,1904569,54716,7,10504,5299,70.9,1,257563815
+NO,Norway,constitutional monarchy,NO,Europe,2015,323802,25148,6,64304,8340,81.6,1,5210967
+ZA,South Africa,republic,ZA,Africa,2015,1219090,2798,6,12509,10186,63.72,1,54490406
+UA,Ukraine,republic,UA,Europe,2015,603550,2782,5,8449,11774,72.1,1,44823765
+PT,Portugal,republic,PT,Europe,2015,92090,1793,5,26437,8980,79.8,1,10349803
+AU,Australia,parliamentary monarchy,AU,Australia,2015,7741220,25760,5,44056,664,81.8,1,23968973
+PH,Philippines,republic,PH,Asia,2015,300000,36289,5,6876,8844,70.2,1,100699395
+SA,Saudi Arabia,monarchy,SA,Asia,2015,2149690,2640,5,52469,9534,78.1,1,31540372
+IR,Iran,islamic republic,IR,Asia,2015,1648195,2440,5,15573,5367,78.5,1,79109272
+SE,Sweden,constitutional monarchy,SE,Europe,2015,450295,3218,4,44892,10714,82,1,9779426
+AE,United Arab Emirates,constitutional monarchy,AE,Asia,2015,83600,1318,4,60749,11884,76.6,1,9156963
+IE,Ireland,republic,IE,Europe,2015,70273,1448,3,47758,5485,80.4,1,4688465
+GR,Greece,republic,GR,Europe,2015,131957,13676,3,25430,4453,79.8,1,10954617
+BG,Bulgaria,republic,BG,Europe,2015,110879,354,3,16371,1850,74.9,1,7149787
+BE,Belgium,parliamentary monarchy,BE,Europe,2015,30528,67,3,41240,1211,80.4,1,11299192
+NL,Netherlands,constitutional monarchy,NL,Europe,2015,41543,451,3,45784,7921,80.6,1,16924929
+DK,Denmark,constitutional monarchy,DK,Europe,2015,43094,7314,3,43495,3154,80.1,1,5669081
+NZ,New Zealand,constitutional monarchy,NZ,Australia,2015,267710,15134,3,34186,7986,80.6,1,4528526
+VN,Vietnam,socialist republic,VN,Asia,2015,331210,3444,3,5623,12350,76.5,1,93447601
+SY,Syria,republic,SY,Asia,2015,185180,193,3,4637,10897,70.26,1,18502413
+PK,Pakistan,republic,PK,Asia,2015,796095,1046,3,4743,8453,66.5,1,188924874
+KZ,Kazakhstan,republic,KZ,Asia,2015,2724900,0,3,23468,5908,68.2,1,17625226
+TH,Thailand,constitutional monarchy,TH,Asia,2015,513120,3219,3,14512,11135,75.1,1,67959359
+OM,Oman,absolute monarchy,OM,Asia,2015,309500,2092,3,48226,8410,75.7,1,4490541
+NG,Nigeria,presidential federal republic,NG,Africa,2015,923768,853,3,5727,8205,61.33,1,182201962
+PE,Peru,republic,PE,South America,2015,1285216,2414,2,11903,8766,77.5,1,31376670
+EC,Ecuador,republic,EC,South America,2015,283561,2237,2,10996,3371,75.2,1,16144363
+CU,Cuba,socialist republic,CU,North America,2015,110860,3735,2,21291,2945,78.5,1,11389562
+DO,Dominican Republic,republic,DO,North America,2015,48670,1288,2,12837,3344,73.8,1,10528391
+CH,Switzerland,federation,CH,Europe,2015,41277,0,2,56118,10826,82.9,1,8298663
+LK,Sri Lanka,republic,LK,Asia,2015,65610,1340,2,10624,10432,76.5,1,20715010
+IQ,Iraq,republic,IQ,Asia,2015,438317,58,2,14646,5457,72.1,1,36423395
+IL,Israel,republic,IL,Asia,2015,20770,273,2,31590,5579,82.4,1,8064036
+CY,Cyprus,republic,CY,Asia,2015,9251,648,2,29797,2998,82.6,1,1165300
+KH,Cambodia,constitutional monarchy,KH,Asia,2015,181035,443,2,3267,2079,68.4,1,15577899
+TN,Tunisia,republic,TN,Africa,2015,163610,1148,2,11126,11498,77.3,1,11253554
+KE,Kenya,republic,KE,Africa,2015,580367,536,2,2898,6003,66.63,1,46050302
+EG,Egypt,republic,EG,Africa,2015,1001450,2450,2,11031,3487,71.3,1,91508084
+UY,Uruguay,republic,UY,South America,2015,176215,660,1,20438,12058,77.3,1,3431555
+CO,Colombia,republic,CO,South America,2015,1138910,3208,1,12761,2601,75.8,1,48228704
+CL,Chile,republic,CL,South America,2015,756102,6435,1,22465,2488,79.3,1,17948141
+AR,Argentina,presidential federal republic,AR,South America,2015,2780400,4989,1,17344,470,76.2,1,43416755
+PG,Papua New Guinea,constitutional monarchy,PG,Oceania,2015,462840,5152,1,2529,8636,60.6,1,7619321
+JM,Jamaica,constitutional monarchy,JM,North America,2015,10991,1022,1,8606,5721,75.5,1,2793335
+BS,Bahamas,constitutional monarchy,BS,North America,2015,13880,3542,1,22818,875,72.3,1,388019
+SI,Slovenia,republic,SI,Europe,2015,20273,47,1,28550,9973,80.2,1,2067526
+RO,Romania,republic,RO,Europe,2015,238391,225,1,19203,9193,76.8,1,19511324
+MT,Malta,republic,MT,Europe,2015,316,197,1,30265,7095,82.1,1,418670
+ME,Montenegro,republic,ME,Europe,2015,13812,294,1,14833,7571,75.8,1,625781
+LV,Latvia,republic,LV,Europe,2015,64589,498,1,23282,6217,75.7,1,1970503
+LT,Lithuania,republic,LT,Europe,2015,65300,90,1,26665,6570,75.4,1,2878405
+IS,Iceland,republic,IS,Europe,2015,103000,4970,1,42182,5121,82.8,1,329425
+HU,Hungary,republic,HU,Europe,2015,93028,0,1,24200,5090,76.2,1,9855023
+HR,Croatia,republic,HR,Europe,2015,56594,5835,1,20260,2819,78,1,4240317
+FI,Finland,republic,FI,Europe,2015,338145,1250,1,38923,3983,80.8,1,5503457
+EE,Estonia,republic,EE,Europe,2015,45228,3794,1,26812,3771,76.8,1,1312558
+CZ,Czech Republic,republic,CZ,Europe,2015,78867,0,1,29437,3037,78.6,1,10543186
+BY,Belarus,republic,BY,Europe,2015,207600,0,1,17415,1123,70.4,1,9495826
+BA,Bosnia and Herzegovina,republic,BA,Europe,2015,51197,20,1,9833,1537,77.9,1,3810416
+AL,Albania,republic,AL,Europe,2015,28748,362,1,10620,126,76,1,2896679
+RS,Serbia,parliamentary republic,RS,Europe,2015,77474,0,1,12908,9687,78.1,1,8850975
+AT,Austria,federal republic,AT,Europe,2015,83871,0,1,44401,685,81,1,8544586
+LU,Luxembourg,constitutional monarchy,LU,Europe,2015,2586,0,1,88314,6645,81.1,1,567110
+SV,El Salvador,republic,SV,Central America,2015,21041,307,1,7776,3555,74.1,1,6126583
+PA,Panama,republic,PA,Central America,2015,75420,2490,1,20485,8551,78.2,1,3929141
+BZ,Belize,constitutional monarchy,BZ,Central America,2015,22966,386,1,8501,1294,70,1,359287
+UZ,Uzbekistan,republic,UZ,Asia,2015,447400,0,1,5598,12137,70.1,1,29893488
+SG,Singapore,republic,SG,Asia,2015,697,193,1,80794,9870,82.1,1,5603740
+MV,Maldives,republic,MV,Asia,2015,298,644,1,14408,6956,79.5,1,363657
+LB,Lebanon,republic,LB,Asia,2015,10400,225,1,17050,6301,78.5,1,5850743
+GE,Georgia,republic,GE,Asia,2015,69700,310,1,7474,4236,73.3,1,3999812
+AZ,Azerbaijan,republic,AZ,Asia,2015,86600,0,1,16986,806,72.9,1,9753968
+AM,Armenia,republic,AM,Asia,2015,29743,0,1,7763,490,74.4,1,3017712
+MY,Malaysia,parliamentary monarchy,MY,Asia,2015,329847,4675,1,24320,6885,75.1,1,30331007
+QA,Qatar,monarchy,QA,Asia,2015,11586,563,1,132877,9109,82,1,2235355
+KW,Kuwait,constitutional monarchy,KW,Asia,2015,17818,499,1,82633,6160,80.7,1,3892115
+JO,Jordan,constitutional monarchy,JO,Asia,2015,89342,26,1,11752,5827,78.3,1,7594547
+BH,Bahrain,constitutional monarchy,BH,Asia,2015,760,161,1,44138,888,79.2,1,1377237
+BN,Brunei,absolute monarchy,BN,Asia,2015,5765,161,1,73003,1766,78.7,1,423188
+ZM,Zambia,republic,ZM,Africa,2015,752618,0,1,4034,12523,58.96,1,16211767
+SN,Senegal,republic,SN,Africa,2015,196722,531,1,2251,9618,66.1,1,15129273
+MU,Mauritius,republic,MU,Africa,2015,2040,177,1,18350,7284,73.9,1,1273212
+GH,Ghana,republic,GH,Africa,2015,238533,539,1,4099,4406,65.5,1,27409893
+ET,Ethiopia,republic,ET,Africa,2015,1104300,0,1,1520,3813,63.6,1,99390750
+DZ,Algeria,republic,DZ,Africa,2015,2381741,998,1,13434,180,76.5,1,39666519
+LY,Libya,islamic-socialist people's republic,LY,Africa,2015,1759540,1770,1,17261,6472,76.2,1,6278438
+SD,Sudan,islamic republic,SD,Africa,2015,1861484,853,1,3975,10501,69.5,1,40234882
+SS,South Sudan,federal republic,SS,Africa,2015,644329,0,1,3047,10316,58,1,12339812
+MA,Morocco,constitutional monarchy,MA,Africa,2015,446550,1835,1,7319,7642,74.7,1,34377511
